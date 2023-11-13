@@ -1,0 +1,24 @@
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-color-gray {
+  background-color: rgba(245, 245, 245, 0.5882352941) !important;
+}
+
+.color-orange {
+  color: #eb4d38;
+}
+
+.color-yellow {
+  color: #eeaa27;
+}
+
+ul {
+  list-style: none;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */

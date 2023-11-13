@@ -1,0 +1,32 @@
+// Importando Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Suas variáveis personalizadas
+$color-orange: #EB4D38;
+$color-yellow: #EEAA27;
+
+// Seu código SCSS
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-color-gray {
+  background-color: #F5F5F5;
+}
+
+.color-orange {
+  color: $color-orange;
+}
+
+.color-yellow {
+  color: $color-yellow;
+}
+
+ul {
+  list-style: none;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+}
